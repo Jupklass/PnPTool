@@ -11,5 +11,5 @@ Multilanguage support: Español, English, Français, Portugês, русский �
 Releases:
 https://github.com/jupklas/PnPTool/releases
 
-Official telegram channel:
+Official Telegram channel:
 https://t.me/pnptool
