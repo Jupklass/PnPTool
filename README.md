@@ -15,6 +15,6 @@ Official Telegram channel:
 https://t.me/pnptool
 
 
-![Screenshot](/images/screenshot.JPG)
+![Screenshot](/images/screenshotTaz.JPG)
 
 
