@@ -1,4 +1,5 @@
 # PnPTool
+![Screenshot](/images/banner.PNG)
 Universal Print and Play Tool
 
 Tool for the generation of Print and Play (PnP) resources.
